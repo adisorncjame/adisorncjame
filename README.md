@@ -31,10 +31,6 @@ I'm a Full-Stack .NET Developer
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-## 📈 GitHub Stats 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=adisorncjame)](https://github.com/adisorncjame)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisorncjame&layout=compact)](https://github.com/adisorncjame)
 
 ## 🤝 Connect with me:
 
