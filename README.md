@@ -1,10 +1,5 @@
 ![jame-adisorn-low-resolution-logo-color-on-transparent-background](https://github.com/adisorncjame/adisorncjame/assets/62010897/d36aad31-042a-45a6-b703-15f1d4c542a6)
 
-<h2 align="center">
-I'm a Full-Stack .NET Developer 
-
-</h2> 
-
 
 ## 🌱 I'm currently learning
 ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
